@@ -1,3 +1,4 @@
+<p align="center">
 Hi
 I do random stuff with python
 
@@ -5,3 +6,4 @@ I do random stuff with python
 
 
 <img src="image.png" alt="image" width="400px"/>
+</p>
